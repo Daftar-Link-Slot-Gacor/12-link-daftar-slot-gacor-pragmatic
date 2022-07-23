@@ -1,0 +1,18 @@
+{
+  "name": "12-link-daftar-slot-gacor-pragmatic",
+  "main": "./lib/12-link-daftar-slot-gacor-pragmatic",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "12-link-daftar-slot-gacor-pragmatic:toggle"
+  },
+  "repository": "https://github.com/Daftar-Link-Slot-Gacor/12-link-daftar-slot-gacor-pragmatic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

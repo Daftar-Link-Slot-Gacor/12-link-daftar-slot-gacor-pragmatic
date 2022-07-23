@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 12-link-daftar-slot-gacor-pragmatic",
+        "command": "12-link-daftar-slot-gacor-pragmatic:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "12-link-daftar-slot-gacor-pragmatic",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "12-link-daftar-slot-gacor-pragmatic:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
